@@ -1,0 +1,8 @@
+C:\Users\Samee\Desktop\C# Lab 01 Question 02 - 24943\Lab 01 Q2\Lab 01 Q2\bin\Debug\Lab 01 Q2.exe.config
+C:\Users\Samee\Desktop\C# Lab 01 Question 02 - 24943\Lab 01 Q2\Lab 01 Q2\bin\Debug\Lab 01 Q2.exe
+C:\Users\Samee\Desktop\C# Lab 01 Question 02 - 24943\Lab 01 Q2\Lab 01 Q2\bin\Debug\Lab 01 Q2.pdb
+C:\Users\Samee\Desktop\C# Lab 01 Question 02 - 24943\Lab 01 Q2\Lab 01 Q2\obj\Debug\Lab 01 Q2.csproj.AssemblyReference.cache
+C:\Users\Samee\Desktop\C# Lab 01 Question 02 - 24943\Lab 01 Q2\Lab 01 Q2\obj\Debug\Lab 01 Q2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samee\Desktop\C# Lab 01 Question 02 - 24943\Lab 01 Q2\Lab 01 Q2\obj\Debug\Lab 01 Q2.csproj.CoreCompileInputs.cache
+C:\Users\Samee\Desktop\C# Lab 01 Question 02 - 24943\Lab 01 Q2\Lab 01 Q2\obj\Debug\Lab 01 Q2.exe
+C:\Users\Samee\Desktop\C# Lab 01 Question 02 - 24943\Lab 01 Q2\Lab 01 Q2\obj\Debug\Lab 01 Q2.pdb
