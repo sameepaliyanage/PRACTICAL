@@ -1,0 +1,8 @@
+C:\Users\Samee\Desktop\C# Lab 03 Question 02\Lab 03 Q2\Lab 03 Q2\obj\Debug\Lab 03 Q2.csproj.AssemblyReference.cache
+C:\Users\Samee\Desktop\C# Lab 03 Question 02\Lab 03 Q2\Lab 03 Q2\obj\Debug\Lab 03 Q2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samee\Desktop\C# Lab 03 Question 02\Lab 03 Q2\Lab 03 Q2\obj\Debug\Lab 03 Q2.csproj.CoreCompileInputs.cache
+C:\Users\Samee\Desktop\C# Lab 03 Question 02\Lab 03 Q2\Lab 03 Q2\bin\Debug\Lab 03 Q2.exe.config
+C:\Users\Samee\Desktop\C# Lab 03 Question 02\Lab 03 Q2\Lab 03 Q2\bin\Debug\Lab 03 Q2.exe
+C:\Users\Samee\Desktop\C# Lab 03 Question 02\Lab 03 Q2\Lab 03 Q2\bin\Debug\Lab 03 Q2.pdb
+C:\Users\Samee\Desktop\C# Lab 03 Question 02\Lab 03 Q2\Lab 03 Q2\obj\Debug\Lab 03 Q2.exe
+C:\Users\Samee\Desktop\C# Lab 03 Question 02\Lab 03 Q2\Lab 03 Q2\obj\Debug\Lab 03 Q2.pdb
