@@ -1,0 +1,16 @@
+D:\NSBM\Y1S2\C#\lab practicals\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\bin\Debug\Lab 04 Question 01 part 01.exe.config
+D:\NSBM\Y1S2\C#\lab practicals\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\bin\Debug\Lab 04 Question 01 part 01.exe
+D:\NSBM\Y1S2\C#\lab practicals\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\bin\Debug\Lab 04 Question 01 part 01.pdb
+D:\NSBM\Y1S2\C#\lab practicals\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\obj\Debug\Lab 04 Question 01 part 01.csproj.AssemblyReference.cache
+D:\NSBM\Y1S2\C#\lab practicals\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\obj\Debug\Lab 04 Question 01 part 01.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Y1S2\C#\lab practicals\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\obj\Debug\Lab 04 Question 01 part 01.csproj.CoreCompileInputs.cache
+D:\NSBM\Y1S2\C#\lab practicals\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\obj\Debug\Lab 04 Question 01 part 01.exe
+D:\NSBM\Y1S2\C#\lab practicals\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\obj\Debug\Lab 04 Question 01 part 01.pdb
+C:\Users\Samee\Desktop\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\bin\Debug\Lab 04 Question 01 part 01.exe.config
+C:\Users\Samee\Desktop\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\bin\Debug\Lab 04 Question 01 part 01.exe
+C:\Users\Samee\Desktop\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\bin\Debug\Lab 04 Question 01 part 01.pdb
+C:\Users\Samee\Desktop\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\obj\Debug\Lab 04 Question 01 part 01.csproj.AssemblyReference.cache
+C:\Users\Samee\Desktop\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\obj\Debug\Lab 04 Question 01 part 01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samee\Desktop\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\obj\Debug\Lab 04 Question 01 part 01.csproj.CoreCompileInputs.cache
+C:\Users\Samee\Desktop\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\obj\Debug\Lab 04 Question 01 part 01.exe
+C:\Users\Samee\Desktop\Lab 04\Lab 04 Question 01 part 01\Lab 04 Question 01 part 01\obj\Debug\Lab 04 Question 01 part 01.pdb
