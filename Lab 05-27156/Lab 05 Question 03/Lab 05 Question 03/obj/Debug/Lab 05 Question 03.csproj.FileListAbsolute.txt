@@ -1,0 +1,8 @@
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.AssemblyReference.cache
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.CoreCompileInputs.cache
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.exe.config
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.exe
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.pdb
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.exe
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.pdb
